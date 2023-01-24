@@ -1,0 +1,24 @@
+header {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #1fa2ff;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: larger;
+}
+.pink.active {
+  color: #edbfc6;
+}
+.foam.active {
+  color: #a9fff7;
+}
+
+.green.active {
+  color: #94fbab;
+}
